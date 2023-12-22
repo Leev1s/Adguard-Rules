@@ -1,6 +1,5 @@
 name: Generate Blacklist
 on: 
-  workflow_dispatch:
   push:
     branches: [ main ]
   schedule:
