@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 5v5PmXA/kkrK5HKfjxNAuA
-! Version: 202312261602
+! Checksum: 3ZZ9ddGsJZjCXuepPpmuEA
+! Version: 202312270040
 ! Title: EasyPrivacy
-! Last modified: 26 Dec 2023 16:02 UTC
+! Last modified: 27 Dec 2023 00:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3363,6 +3363,7 @@ omni.soundestlink.com$image
 ||tncid.app^
 ||track-selectmedia.com^
 ||trackclicks.info^
+||tracking24.net^
 ||transmapp.com^
 ||triplestat.online^
 ||trk-maiorum.com^
@@ -12155,6 +12156,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beaconcdn.qq.com^
 ||bokecc.com/flash/playlog?
 ||bokecc.com/flash/timerecorder?
+||busuanzi.ibruce.info^$third-party
 ||bzclk.baidu.com^
 ||c.holmesmind.com^
 ||cbsi.com.cn/js/dw.js
