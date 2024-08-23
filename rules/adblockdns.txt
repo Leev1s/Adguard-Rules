@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、ADgk、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240823003018
-! Last modified: 2024/08/23 00:30:18
-! Blocked domains: 171728
+! Version: 20240823091921
+! Last modified: 2024/08/23 09:19:21
+! Blocked domains: 171737
 ! unBlocked domains: 59
 !
 ||01045395.xyz^
@@ -11149,6 +11149,7 @@
 ||aly.la^
 ||alyssabelen.com^
 ||logapi.alza.cz^
+||measuring-pixel-service.alza.cz^
 ||a.alzcombocare.com^
 ||alzexa.com^
 ||alzubairicorp.com^
@@ -31220,6 +31221,7 @@
 ||info.bvcm.nl^
 ||bvcsfcx.com^
 ||bvct-disha.org^
+||bvdenx.xyz^
 ||corporatecommunications.bvifsc.vg^
 ||bvmcdn.net^
 ||bvmtogo.com^
@@ -50788,6 +50790,7 @@
 ||eabelats.site^
 ||eabithecon.xyz^
 ||eac0823ca94e3c07.com^
+||eacdf119.cn^
 ||eacdn.com^
 ||eacfiii.com^
 ||eachiv.com^
@@ -102135,6 +102138,7 @@
 ||br.ac.mrjet.se^
 ||443b9e9e5bc2531bc4c635d620368b4a.mrjsa.pl^
 ||www.443b9e9e5bc2531bc4c635d620368b4a.mrjsa.pl^
+||sks.mrkhub.com^
 ||oylyaz.mrkoll.se^
 ||mrlscr.com^
 ||fpptmv.mrmarvis.co.uk^
@@ -114141,6 +114145,7 @@
 ||palaceperk.world^
 ||palacio-leiloeiro.com^
 ||content.paladion.net^
+||palaesavgs.com^
 ||palakahone.com^
 ||palama2.co^
 ||palama2.com^
@@ -121516,6 +121521,7 @@
 ||bobcat.pronounce.technology^
 ||pronouncedgetawayetiquette.com^
 ||pronounconsternationspotlight.com^
+||plausible.pronouns.cc^
 ||prontoadd.com^
 ||prontoalimento.com.py^
 ||prontocasino.com^
@@ -141776,6 +141782,7 @@
 ||subcompleteness.info^
 ||subconcave.life^
 ||subdatejutties.com^
+||umami.subdavis.com^
 ||subduealec.com^
 ||subduedgrainchip.com^
 ||subduegrape.com^
@@ -145324,6 +145331,7 @@
 ||web.tegus.com^
 ||nos.tegzy.com^
 ||stats.tehila.gov.il^
+||tehxzz.xyz^
 ||web.teiegrem.org^
 ||teinlbw.com^
 ||ads.teixido.co^
@@ -163855,6 +163863,7 @@
 ||wfodwkk.com^
 ||wfpjeul.cn^
 ||wfredir.net^
+||wfsmya.xyz^
 ||a135.wftv.com^
 ||wftyehw.cn^
 ||wfuossjholw.com^
