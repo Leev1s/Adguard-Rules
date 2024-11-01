@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、ADgk、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241101003419
-! Last modified: 2024/11/01 00:34:19
-! Blocked domains: 179439
+! Version: 20241101093358
+! Last modified: 2024/11/01 09:33:58
+! Blocked domains: 179453
 ! unBlocked domains: 66
 !
 ||checkcaptcha.000.pe^
@@ -19590,6 +19590,7 @@
 ||poliqamyz-xma.b-cdn.net^
 ||popcashjs.b-cdn.net^
 ||predataclient.b-cdn.net^
+||psh-static.b-cdn.net^
 ||pub-1kerwcwkwrmjg5ak9zyejlverqmsxjoyjh.b-cdn.net^
 ||pushlandings.b-cdn.net^
 ||sp-wukong-tracker.b-cdn.net^
@@ -35261,6 +35262,7 @@
 ||cf68club.com^
 ||cf68club.net^
 ||cf68vn.com^
+||7b53efdf4e.cf97134c89.com^
 ||smetrics.cfainstitute.org^
 ||cfateu.xyz^
 ||cfc1afd774.com^
@@ -43219,6 +43221,7 @@
 ||z492.ctinsider.com^
 ||ctiotjobkfu.com^
 ||ctkyom.xyz^
+||ctlacnh.icu^
 ||ctlrarz.xyz^
 ||ctm-media.com^
 ||ctmrso.xyz^
@@ -57638,6 +57641,7 @@
 ||478789.everydayporn.co^
 ||61serve.everydayporn.co^
 ||everydowered.com^
+||a.everymark.xyz^
 ||www.everynewshere.com^
 ||static.everyone.net^
 ||everyoneawokeparable.com^
@@ -65082,6 +65086,7 @@
 ||tracking.g2crowd.com^
 ||g33ktr4ck.com^
 ||g4news.biz^
+||g4y7uuk.com^
 ||g52bxi1v1w.com^
 ||cdn.g5e.com^
 ||ceg.g5e.com^
@@ -69014,6 +69019,7 @@
 ||goodwashcompany.com^
 ||goodwashingmachine.com^
 ||app.goodwearmall.com^
+||a.goodweet.xyz^
 ||info.goodwillgr.org^
 ||goodyearazbeeremoval.com^
 ||goodyearazrealtor.com^
@@ -69676,6 +69682,7 @@
 ||tracking.graduateschool.edu^
 ||www.training.graduateschool.edu^
 ||go.gradwell.com^
+||graesol.com^
 ||graettingerlaw.com^
 ||grafaman.ru^
 ||atgt.grafana.com^
@@ -71199,6 +71206,7 @@
 ||habutaeirisate.com^
 ||habutchodset.com^
 ||hacdeg.com^
+||haceroberomaste.com^
 ||images.newsletter.hach.com.cn^
 ||asp.hachipp119.com^
 ||hack-and-cheats.com^
@@ -82630,6 +82638,7 @@
 ||marketing.irvingtexas.com^
 ||saber.irwebservice.ir^
 ||irxcm.com^
+||irxybq.com^
 ||kcvwuw.iryouworker.com^
 ||is-a-personaltrainer.com^
 ||ciezkieczasy.is-best.net^
@@ -102089,6 +102098,7 @@
 ||mischief.cfd^
 ||mischiefrealizationbraces.com^
 ||miscreantmoon.com^
+||a.misctool.xyz^
 ||vagolysis.misdoers.site^
 ||vegetalcule.misdoers.site^
 ||eniorcxcaqomm.misecure.com^
@@ -107900,8 +107910,11 @@
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
+||navi11.ru^
+||navi15.ru^
 ||navi18.com^
 ||navi2.com^
+||navi20.com^
 ||navi20.ru^
 ||navi21.com^
 ||navi22.com^
@@ -107918,6 +107931,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi53.com^
@@ -130385,6 +130399,7 @@
 ||qgevavwyafjf.com^
 ||qgexkmi.com^
 ||qglinlrtdfc.com^
+||qgmwby.com^
 ||cdn.qgr.ph^
 ||cdn.qgraph.io^
 ||sdk.api.qgraph.io^
@@ -130460,6 +130475,7 @@
 ||sdk.qikify.com^
 ||m.qilungroup.cn^
 ||miniapp.qiluyidian.mobi^
+||black.qimo.ink^
 ||backend.qimtek.se^
 ||www.qinchugudao.com^
 ||0.up.qingdaonews.com^
@@ -132013,6 +132029,7 @@
 ||raidframe.info^
 ||ads.raidrush.org^
 ||usenet.raidrush.org^
+||raiffeisenmining.com^
 ||raihbadanimpian.com^
 ||raiijqfhnshes.com^
 ||raijigrip.com^
@@ -136157,7 +136174,6 @@
 ||rouhb.com^
 ||rouinfernapean.com^
 ||roujonoa.net^
-||roukoopo.net^
 ||roulediana.com^
 ||www.roulettebotplus.com^
 ||roulettenumber.com^
@@ -138018,7 +138034,6 @@
 ||sampleresumes.org^
 ||sampletemplates.org^
 ||tracker.samplicio.us^
-||sampoang.xyz^
 ||samratconstructions.com^
 ||samrockchem.com^
 ||samruddheebright.com^
@@ -156193,7 +156208,6 @@
 ||track.tigrinhopremiado.com^
 ||tigta.gov^
 ||tihdjd.xyz^
-||tihursoa.net^
 ||tiiepofl.xyz^
 ||apiv2.tiin.vn^
 ||black-valentine-93.tiiny.site^
@@ -164226,7 +164240,6 @@
 ||usmusk.net^
 ||usn.cc^
 ||usnd.to^
-||usnewoutdoor.com^
 ||usnewoutdoors.com^
 ||link.biz-messaging.usnews.com^
 ||link.messaging.usnews.com^
@@ -168854,7 +168867,6 @@
 ||panel.home.pl-477a774b.wabu.pl^
 ||wabusinessdaily.com^
 ||wacaiji.com^
-||wachipho.net^
 ||marketing.wachsws.com^
 ||wacisi.xyz^
 ||metrics.wacken.com^
@@ -174549,6 +174561,7 @@
 ||affil.xgdpr.cz^
 ||xgea.top^
 ||tracker.xgen.dev^
+||xggcyef.icu^
 ||xgihlgcfuu.com^
 ||analytics.xgimi.com^
 ||xgjidt.xyz^
@@ -174939,6 +174952,7 @@
 ||xjtosdof.icu^
 ||shop.xjtrqq.top^
 ||ndyjs.xjtu.edu.cn^
+||xjwzbo.com^
 ||xjyxgy.com^
 ||xkacs5av.xyz^
 ||xkarma.net^
