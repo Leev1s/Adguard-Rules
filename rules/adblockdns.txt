@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、ADgk、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241102003326
-! Last modified: 2024/11/02 00:33:26
-! Blocked domains: 179168
+! Version: 20241102092709
+! Last modified: 2024/11/02 09:27:09
+! Blocked domains: 179184
 ! unBlocked domains: 62
 !
 ||inp0st.0344223.xyz^
@@ -6364,7 +6364,6 @@
 ||adcent.jp^
 ||adcenter.net^
 ||adcentrum.net^
-||adcept.net^
 ||adchap.com^
 ||adcharriot.com^
 ||adchemical.com^
@@ -12848,6 +12847,7 @@
 ||asp.animelab.com^
 ||animememehub.com^
 ||animeplaynow.com^
+||animeshoppers.com^
 ||api.animeshqip.icu^
 ||animi2.com^
 ||dinocraft.animocabrands.com^
@@ -24901,6 +24901,7 @@
 ||creative.bidease.com^
 ||track-resource.bidease.com^
 ||track-us.bidease.com^
+||bidehunter.com^
 ||bidenharris2k20.com^
 ||bideo-blog.com^
 ||bideo-blog.xyz^
@@ -45707,6 +45708,7 @@
 ||rtb-useast-v4.datadrives.ai^
 ||xml-v4.datadrives.ai^
 ||dataentryworkfromhomejobs.com^
+||datafa.st^
 ||app.datafastguru.info^
 ||cfg.datafastguru.info^
 ||pstatic.datafastguru.info^
@@ -63983,6 +63985,7 @@
 ||friday89.com^
 ||fridayaffectionately.com^
 ||fridayarched.com^
+||fridaylocalmanager.duckdns.org^
 ||www.fridaymash.com^
 ||fridaypatnod.com^
 ||fridaywake.com^
@@ -72949,6 +72952,7 @@
 ||frdoki.heisei-housewarming.work^
 ||heisenbergseocompany.com^
 ||ensighten.heishop.mx^
+||heiviek.com^
 ||heixbai.com^
 ||heixidor.com^
 ||checkpointcharlie.heizung.de^
@@ -77922,6 +77926,7 @@
 ||api.iflychat.com^
 ||log.iflytek.com^
 ||logconf.iflytek.com^
+||ifmccdn.icu^
 ||research.ifmo.ru^
 ||ifnpost-pl.top^
 ||di.ifolor.at^
@@ -78271,6 +78276,7 @@
 ||pr.ikovrov.ru^
 ||ikpowkdsa.info^
 ||q.ikre.xyz^
+||ikspoopfp.com^
 ||ikssllnhrb.com^
 ||allegro.ikup24.pl^
 ||ikup24h.pl^
@@ -89208,6 +89214,7 @@
 ||kjjjusb.xyz^
 ||kjkulnpfdhn.com^
 ||kjlzt.cn^
+||kjnsgqe.icu^
 ||kjrspnbf.xyz^
 ||kjsdgbj.top^
 ||kjsvvnzcto.com^
@@ -89402,7 +89409,6 @@
 ||kmsauto.info^
 ||kmsauto.org^
 ||kmsauto.tech^
-||kmsauto.uno^
 ||kmsautodown.space^
 ||brands.kmsmep.com^
 ||kmsofficial.org^
@@ -100445,6 +100451,7 @@
 ||images.info.mercycare.org^
 ||strack.mercycareaz.org^
 ||mereanglicanism.com^
+||merelsrealm.com^
 ||merelymortalsoftware.com^
 ||meremark.com^
 ||merequartz.com^
@@ -104292,6 +104299,7 @@
 ||mossgaietyhumiliation.com^
 ||marketing.mossinc.com^
 ||adx.mossru.com^
+||mossyiapyges.com^
 ||mossypinebush903.sbs^
 ||lnk.most-days.com^
 ||mostauthor.com^
@@ -108984,6 +108992,7 @@
 ||newgrannypics.com^
 ||ads.newgrounds.com^
 ||promo.newgrowthtrends.com^
+||newgstore.com^
 ||newhacks24.net^
 ||krskux.newhaircaps.com.br^
 ||s.newhamburgindependent.ca^
@@ -120357,6 +120366,7 @@
 ||plataolivol24.shop^
 ||platchteopan.com^
 ||links.plated.com^
+||platedmanlily.com^
 ||mt.plateiq.com^
 ||platelosingshameless.com^
 ||plateruena.com^
@@ -132286,6 +132296,7 @@
 ||rbfive.bid^
 ||rbfour.bid^
 ||rbhunp.xyz^
+||rbift.icu^
 ||mailer.rbis-averydennison.com^
 ||sdc.rbistats.com^
 ||rbiwpiccr.top^
@@ -143341,6 +143352,7 @@
 ||ad.ari.skt-jive.com^
 ||skulldesperatelytransfer.com^
 ||skullhalfway.com^
+||skullmagnets.com^
 ||skullypower.com^
 ||skunkfunkcrypto.com^
 ||skunscold.top^
@@ -147749,6 +147761,7 @@
 ||steamjaws.com^
 ||steamkeygiveaway.com^
 ||steamkeysfree.com^
+||steammcommunuty.ru^
 ||steamproxy.net^
 ||steampunkinventions.site^
 ||steamqr.site^
@@ -168230,6 +168243,7 @@
 ||vuibbuy.com^
 ||vuigiaitri.online^
 ||vuiluaz.xyz^
+||vuirssd.icu^
 ||vuittonu.com^
 ||vuiuk88.club^
 ||vujriahqyleveh.com^
@@ -172529,6 +172543,7 @@
 ||article.wmc-media.com^
 ||polska.wmc-media.com^
 ||wmcasher.ru^
+||wmcbld.top^
 ||wmcdpt.com^
 ||wmclickz.ru^
 ||track.msadcenter.wmd.com^
@@ -176015,6 +176030,7 @@
 ||www.vinted-pl-gj32d.yeseav.top^
 ||yesflix.live^
 ||yesflix.online^
+||yesgwyn.com^
 ||ads.yeshanews.com^
 ||bi.yeshen.com^
 ||launcher-us.yeshen.com^
