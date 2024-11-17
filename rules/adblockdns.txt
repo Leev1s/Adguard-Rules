@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、ADgk、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241117163317
-! Last modified: 2024/11/17 16:33:17
-! Blocked domains: 179052
+! Version: 20241118003219
+! Last modified: 2024/11/18 00:32:19
+! Blocked domains: 179079
 ! unBlocked domains: 60
 !
 ||promomtevote.000.pe^
@@ -66428,6 +66428,31 @@
 ||geliyballon.ru^
 ||gellidegisaf.com^
 ||med.gelnique.com^
+||bad.gelopro.com^
+||infs.gelopro.com^
+||met.gelopro.com^
+||metdom.gelopro.com^
+||ners.gelopro.com^
+||nerw.gelopro.com^
+||nerws.gelopro.com^
+||newers.gelopro.com^
+||newr.gelopro.com^
+||newsom.gelopro.com^
+||priles.gelopro.com^
+||tedl.gelopro.com^
+||telmx.gelopro.com^
+||temsa.gelopro.com^
+||temsc.gelopro.com^
+||temv.gelopro.com^
+||teslx.gelopro.com^
+||tesm.gelopro.com^
+||tesmes.gelopro.com^
+||testersad.gelopro.com^
+||testersd.gelopro.com^
+||testrsss.gelopro.com^
+||trads.gelopro.com^
+||tre.gelopro.com^
+||trle.gelopro.com^
 ||home.gelsennet.de^
 ||gelstate.ru^
 ||link.gem.co^
@@ -160611,6 +160636,7 @@
 ||tweezesmalanga.com^
 ||app.wine.tweglobal.com^
 ||twehret.site^
+||tweisii.top^
 ||twelfthcomprehendgrape.com^
 ||twelfthdistasteful.com^
 ||twelvemissionjury.com^
@@ -167160,6 +167186,7 @@
 ||vn88vui.live^
 ||vn88win.live^
 ||vn999.club^
+||vnadsrv.com^
 ||vnadssb.com^
 ||trk.vnative.com^
 ||ad-admin.vnay.vn^
