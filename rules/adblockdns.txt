@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、ADgk、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241205163732
-! Last modified: 2024/12/05 16:37:32
-! Blocked domains: 179165
+! Version: 20241206003637
+! Last modified: 2024/12/06 00:36:37
+! Blocked domains: 179181
 ! unBlocked domains: 66
 !
 ||0-0.fr^
@@ -36033,6 +36033,7 @@
 ||lzwxzz.chintaistyle.jp^
 ||chinwee.com^
 ||chioneflake.com^
+||chioursorspolia.com^
 ||ackrly.chip.de^
 ||acksrc.chip.de^
 ||ad-js.chip.de^
@@ -37023,6 +37024,7 @@
 ||vinted.cjgdh.top^
 ||cjgrlbxciqsbr.com^
 ||cjgymo.xyz^
+||cjimtyf.top^
 ||cjlog.com^
 ||costo-us.costco.dev.cjmadobe.com^
 ||data.email-coke.cjmadobe.com^
@@ -56017,6 +56019,7 @@
 ||etude.epidemiologie-pop-ge.ch^
 ||partneri.epiderma.cz^
 ||epigrammatists.pro^
+||epilinserts.com^
 ||www.epipenexpiryservice.com^
 ||epipialbeheira.com^
 ||epipterygoidmiber.life^
@@ -64406,6 +64409,7 @@
 ||ads-api.ft.com^
 ||spoor-api.ft.com^
 ||ftads.net^
+||ftajryaltna.com^
 ||1.ftb.al^
 ||auxilium.ftb.team^
 ||ftblltrck.com^
@@ -65296,6 +65300,7 @@
 ||gaihoumauwha.com^
 ||a8cv.gaikokujin-support.com^
 ||a8cv.gaikouexterior-partners.jp^
+||gaimauroogrou.net^
 ||gaimiz.com^
 ||gaimoupy.net^
 ||gain-money-now.net^
@@ -80688,6 +80693,7 @@
 ||inpest-pl.wiki^
 ||inpest-pl.work^
 ||inpestpl.top^
+||inphais.com^
 ||inphonic.com^
 ||tr.evenements.inpi.fr^
 ||inpicture.tv^
@@ -110749,6 +110755,7 @@
 ||i.niupic.com^
 ||niusifan.com^
 ||rjs.niuxgame77.com^
+||niveausatan.shop^
 ||mdws.nivervillecu.mb.ca^
 ||nivunautei.live^
 ||niwapiy.com^
@@ -112592,6 +112599,7 @@
 ||oaphooftaus.com^
 ||oapsoulreen.net^
 ||oaqrui.xyz^
+||oaraiwephoursou.net^
 ||oardilin.com^
 ||oarouwousti.com^
 ||oarsparttimeparent.com^
@@ -114966,6 +114974,7 @@
 ||ootchaig.xyz^
 ||ootchobuptoo.com^
 ||api.ootoo.co.kr^
+||oovoonganeegry.xyz^
 ||oowhoaphick.com^
 ||logger-gtm.ooyala.com^
 ||data-51ce0248a2.op-marburg.de^
@@ -118920,6 +118929,7 @@
 ||jviyau.pelicanwater.com^
 ||pelicula20.com^
 ||pelie.pl^
+||pelikan-network.ir^
 ||partner.pelikan.cz^
 ||api-analytics.pelikan.sk^
 ||pelis-123.org^
@@ -123993,6 +124003,7 @@
 ||pringed.space^
 ||schemea.prinit.net^
 ||prinkastors.com^
+||prinksdammit.com^
 ||prinksoncotic.com^
 ||a8cv.print-gakufu.com^
 ||content-olx.print-info.biz^
@@ -129441,6 +129452,7 @@
 ||q8ds.net^
 ||q8n.cc^
 ||q8ntfhfngm.com^
+||q8q.icu^
 ||q99i1qi6.de^
 ||q9y39.cn^
 ||qa-vatote.icu^
@@ -131169,6 +131181,7 @@
 ||red-bull.rafflestyle.markets^
 ||www.red-bull.rafflestyle.markets^
 ||rafflisle.com^
+||rafikfangas.com^
 ||cvmdie.rafjolka.pl^
 ||rafkxx.com^
 ||raftermamoving.com^
@@ -157342,6 +157355,7 @@
 ||info.totango.com^
 ||totemcash.com^
 ||totentacruelor.com^
+||totersoutpay.com^
 ||totlnkbn.com^
 ||totlnkcl.com^
 ||toto.bg^
@@ -172402,6 +172416,7 @@
 ||p.wktfkj.com^
 ||wkvpvglcjsagi.xyz^
 ||wkvspsb.com^
+||wkwqljwykorov.top^
 ||wkybwa.xyz^
 ||ywrcqa.wkyc.com^
 ||l.wl.co^
@@ -178304,6 +178319,7 @@
 ||zirocuuluo.live^
 ||app.zirtue.com^
 ||zirve100.com^
+||zishezetchadsi.net^
 ||zisu.cn.com^
 ||zitaptugo.com^
 ||tracker.au.zitcha.app^
